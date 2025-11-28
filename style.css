@@ -1,0 +1,31 @@
+body {
+    background-image: url('Фон.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #d2f162;
+    border-color:rgb(31, 3, 190);
+    border-radius: 10px;
+    border-style: solid;
+    margin: 100px;
+    padding: 10px;
+    color: rgb(255, 238, 0);
+    font-family: 'Bookman Old Style', Bookman, serif;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+body {
+    margin: 900;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
